@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anshuman Biswal</h1>
-<h3 align="center">Electrical Engineer || Tech Enthusiast || Full Stack Developer Adept at motivating self and others. Passionate about Teaching and Educating the next generation</h3>
+<h3 align="center">Engineering Student at New Horizon College of Engineering Undergraduate in Electrical and Electronics Engineering, Self-taught, and detail-oriented programmer currently pursuing interests in Python Programming, Java Full Stack Development, Data Science, and Data Analytics. Can handle stressful working environments and rapidly changing priorities. Has good Leadership, Time Management, Communication, Negotiation, Persuasion, and Decision-making skills. Adept at motivating self and others. Passionate about Teaching and Educating the next generation. I also Teach Programming with Python on YouTube, I have my very own series called MAD ABOUT PYTHON which basically focuses on GUI Development and the Basics of Python 3</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshumanbiswal14&label=Profile%20views&color=0e75b6&style=flat" alt="anshumanbiswal14" /> </p>
 
@@ -32,7 +32,7 @@
 <a href="https://twitter.com/manameizjeff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manameizjeff" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anshumanbiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshumanbiswal" height="30" width="40" /></a>
 <a href="https://instagram.com/_manameisjeff_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_manameisjeff_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/anshuman biswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anshuman biswal" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/anshumanbiswal14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anshumanbiswal14" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
