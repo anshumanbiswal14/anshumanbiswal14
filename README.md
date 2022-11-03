@@ -1,45 +1,24 @@
-<h1 align="center">Hi 👋, I'm Anshuman Biswal</h1>
-<h3 align="center">Engineering Student at New Horizon College of Engineering Undergraduate in Electrical and Electronics Engineering, Self-taught, and detail-oriented programmer currently pursuing interests in Python Programming, Java Full Stack Development, Data Science, and Data Analytics. Can handle stressful working environments and rapidly changing priorities. Has good Leadership, Time Management, Communication, Negotiation, Persuasion, and Decision-making skills. Adept at motivating self and others. Passionate about Teaching and Educating the next generation. I also Teach Programming with Python on YouTube, I have my very own series called MAD ABOUT PYTHON which basically focuses on GUI Development and the Basics of Python 3</h3>
+# 💫 About Me:
+Software Engineer at Capgemini India (Bengaluru)<br>Currently working for ANZ Bank.<br><br>Undergraduate in Electrical and Electronics Engineering, Self-taught, and detail-oriented programmer currently pursuing interests in Python Programming, Robotic Process Automation, PEGA, and Data Analytics. Can handle stressful working environments and rapidly changing priorities. Has good Leadership, Time Management, Communication, Negotiation, Persuasion, and Decision-making skills. Adept at motivating self and others. Passionate about Teaching and Educating the next generation.<br><br>I also Teach Programming with Python on YouTube, I have my very own series called MAD ABOUT PYTHON which basically focuses on GUI Development and the Basics of Python 3. I love creating educational content on YouTube.<br><br>YouTube :- Anshuman Biswal<br>GitHub :- https://github.com/anshumanbiswal14<br>HackerRank :- https://www.hackerrank.com/anshumanbiswal14?hr_r=1
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anshumanbiswal14&label=Profile%20views&color=0e75b6&style=flat" alt="anshumanbiswal14" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshumanbiswal14" alt="anshumanbiswal14" /></a> </p>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Anshuman Biswal) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_manameisjeff_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anshumanbiswal) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Anshuman Biswal) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mynameizjeff) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/AnshumanBiswal14) 
 
-<p align="left"> <a href="https://twitter.com/manameizjeff" target="blank"><img src="https://img.shields.io/twitter/follow/manameizjeff?logo=twitter&style=for-the-badge" alt="manameizjeff" /></a> </p>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=anshumanbiswal14&theme=vue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=anshumanbiswal14&theme=vue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshumanbiswal14&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🔭 I’m currently working as an **Analyst at Capgemini India**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=anshumanbiswal14&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
-- 🌱 I’m currently learning **Full Stack Java Development**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-- 👯 I’m looking to collaborate on **Python Data Science Projects**
+---
+[![](https://visitcount.itsvg.in/api?id=anshumanbiswal14&icon=2&color=8)](https://visitcount.itsvg.in)
 
-- 🤝 I’m looking for help with **Machine Learning & Data Science**
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/anshumanbiswal/](https://www.linkedin.com/in/anshumanbiswal/)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/anshumanbiswal/](https://www.linkedin.com/in/anshumanbiswal/)
-
-- 💬 Ask me about **Python, Java, Data Science**
-
-- 📫 How to reach me **anshumanb@outlook.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/anshumanbiswal/](https://www.linkedin.com/in/anshumanbiswal/)
-
-- ⚡ Fun fact **I love to create content on YouTube & I love to Travel**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/manameizjeff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manameizjeff" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anshumanbiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshumanbiswal" height="30" width="40" /></a>
-<a href="https://instagram.com/_manameisjeff_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_manameisjeff_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/anshumanbiswal14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anshumanbiswal14" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshumanbiswal14&show_icons=true&locale=en&layout=compact" alt="anshumanbiswal14" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshumanbiswal14&show_icons=true&locale=en" alt="anshumanbiswal14" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshumanbiswal14&" alt="anshumanbiswal14" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
